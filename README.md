@@ -1,7 +1,7 @@
 # ePortfolio
 Evidence is provided here of the following objectives:
 1. Explain communication concepts and strategies
- - Add evidence here.
+  - Add evidence here.
 3. Show confidence and skills in oral communications and presentations
 - Add evidence here.
 4. Work effectively as part of a team
