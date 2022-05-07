@@ -9,4 +9,4 @@ Evidence is provided here of the following objectives:
 4. Communicate effectively in a professional context
    - Spoke to an audience in an [oral presentation](Presentation.mp4) for Professional Communications Skills for ICT (COIT11239)
 5. Define and demonstrate conflict management and resolution strategies.
-   - Cowrote a [specification](Conflict%20Scenario.docx) for Professional Communications Skills for ICT (COIT11239)
+   - Examined solutions to conflicts in a [specification](Conflict%20Scenario.docx) for Professional Communications Skills for ICT (COIT11239)
